@@ -14,4 +14,4 @@
 # git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git
 
 # 添加第三方软件包
-git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
+# git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
